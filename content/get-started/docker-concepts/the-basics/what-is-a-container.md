@@ -15,7 +15,7 @@ aliases:
 
 ## Explanation
 
-Imagine you're developing a killer web app that has three main components - a React frontend, a Python API, and a PostgreSQL database. If you wanted to work on this project, you'd have to install Node, Python, and PostgreSQL. 
+Imagine you're developing a killer web app that has three main components - a React frontend, a Python API, and a PostgreSQL database. If you wanted to work on this project, you'd have to install Node, Python, & PostgreSQL. 
 
 How do you make sure you have the same versions as the other developers on your team? Or your CI/CD system? Or what's used in production?
 
